@@ -153,9 +153,7 @@ semantic-version==2.10.0
 serpapi==0.1.5
 setuptools==75.8.0
 shellingham==1.5.4
-six==1.17.0
--e git+https://github.com/huggingface/smolagents.git@e27e83f64552b974ef36d510d1e3c4e72a78c0af#egg=smolagents
-sniffio==1.3.1
+six==1.17.0sniffio==1.3.1
 soundfile==0.13.1
 soupsieve==2.6
 SpeechRecognition==3.14.1
