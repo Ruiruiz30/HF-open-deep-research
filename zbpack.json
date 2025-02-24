@@ -1,0 +1,5 @@
+{
+    "install_command": "pip install -r requirements.txt",
+    "build_command": " ",
+    "start_command": "python app.py"
+}
